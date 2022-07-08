@@ -1,4 +1,14 @@
 Integrantes
+<li>
   Mateo Cevallos
+</li>
+<li>
   Antony Sanchez
-  Sebastian Valencia
+</li>
+<li>
+   Sebastian Valencia
+</li>
+ <li>
+   Michaelle Valenzuela
+</li> 
+ 
